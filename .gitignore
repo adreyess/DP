@@ -1,0 +1,44 @@
+# ==========================================
+# BlueJ Specific
+# ==========================================
+# Archivos de contexto interno de BlueJ (almacenan estado del editor y diagramas)
+*.ctxt
+
+# Directorios de paquetes que crea BlueJ para vistas internas
+*.pkh
+
+# ==========================================
+# Java Compiled & Output Files
+# ==========================================
+*.class
+
+# Directorios habituales de salida de compilación
+bin/
+build/
+out/
+target/
+
+# ==========================================
+# Compressed & Package Archives
+# ==========================================
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# ==========================================
+# OS & Editor Cleanups
+# ==========================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSSharedFileList
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos de log
+*.log
